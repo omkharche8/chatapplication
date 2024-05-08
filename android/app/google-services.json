@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125996592876",
+    "project_id": "dbmsreal",
+    "storage_bucket": "dbmsreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125996592876:android:9cff26b6e95a8af8d3ffc9",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI-ht4HNAjxj6Xsrs8vJngdP4eOup997U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
